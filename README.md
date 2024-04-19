@@ -1,2 +1,3 @@
-This project is based off the AI assistant features of the popular well regarded Fictional Character of Tony Stark and it serves as your personal assistant for your desktop environment allowing the user to access all functionalities of the desktop through voice commands
-as in opening up browser to search or play any video or song from youtube, be it setting your alarm or checking your calendar and routine, clearing out your doubts on Wikipedia, Jarvis will obey by your side.
+This project is based off the AI assistant features of the popular well regarded Fictional Character of Tony Stark and it serves as your personal assistant for your desktop environment allowing the user to access all functionalities of the desktop through voice commands as in opening up browser to search or play any video or song from youtube, be it setting your alarm or checking your calendar and routine, clearing out your doubts on Wikipedia, Jarvis will obey by your side.
+
+Jarvis can take screenshots of your screen or open up any software, Jarvis can even help you to send WhatsApp texts so it is what your assistant can do in the virtual world.
